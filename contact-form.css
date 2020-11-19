@@ -1,0 +1,42 @@
+body {
+    background-color: #F2F2F2;
+}
+
+.container {
+    margin: auto;
+    width: 550px;
+    padding-top: 70px;
+}
+
+h1 {
+    color: #FA58D0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text {
+    width: 253px;
+    padding: 7px;
+}
+
+#text-email {
+    width: 530px;
+    padding: 7px;
+}
+
+.btn-submit {
+    color: white;
+    background-color: #FA58D0;
+    border: none;
+    width: 70px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.sao {
+    color: #FA58D0;
+    margin: 0px;
+}
